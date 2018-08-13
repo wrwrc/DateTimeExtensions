@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2026
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DateTimeExtensions", "src\DateTimeExtensions.csproj", "{EA32F3B9-8BE4-4444-AF5B-1A973264EFE3}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "src", "src", "{DED8DB32-EBBC-4001-AB51-DBCB3D1D1BD2}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EA32F3B9-8BE4-4444-AF5B-1A973264EFE3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA32F3B9-8BE4-4444-AF5B-1A973264EFE3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA32F3B9-8BE4-4444-AF5B-1A973264EFE3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA32F3B9-8BE4-4444-AF5B-1A973264EFE3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{EA32F3B9-8BE4-4444-AF5B-1A973264EFE3} = {DED8DB32-EBBC-4001-AB51-DBCB3D1D1BD2}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {02BDBFF5-3F10-4C67-90DF-CF32A787852F}
+	EndGlobalSection
+EndGlobal
